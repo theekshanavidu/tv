@@ -1,1 +1,2 @@
-/*    /index.html   200
+# SPA fallback - handled by Cloudflare Workers Assets not_found_handling
+# Do NOT add /* /index.html 200 - causes infinite loop in Workers Assets mode
